@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lead_001",
+    "createdAt": "2026-03-25T15:00:00.000Z",
+    "name": "Miguel Contractor",
+    "phone": "+14045551234",
+    "service": "Milwaukee drill set",
+    "message": "Need local pickup availability.",
+    "slug": "jrtools",
+    "status": "new"
+  },
+  {
+    "id": "lead_002",
+    "createdAt": "2026-03-25T18:30:00.000Z",
+    "name": "Sandra Build Co",
+    "phone": "+14045557654",
+    "service": "Bulk order pricing",
+    "message": "Looking for 5 tools.",
+    "slug": "jrtools",
+    "status": "contacted"
+  },
+  {
+    "id": "lead_003",
+    "createdAt": "2026-03-26T09:10:00.000Z",
+    "name": "Luis Gomez",
+    "phone": "+14045559876",
+    "service": "Makita combo kit",
+    "message": "Closed sale from tap card.",
+    "slug": "jrtools",
+    "status": "won"
+  }
+]

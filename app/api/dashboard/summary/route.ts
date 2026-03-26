@@ -1,0 +1,3 @@
+import { NextResponse } from "next/server";
+import { getSummary } from "@/lib/lead-store";
+export async function GET() { return NextResponse.json(getSummary()); }
